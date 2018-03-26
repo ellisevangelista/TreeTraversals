@@ -1,5 +1,5 @@
-# Tree Traversals (Infix, Prefix, Postfix and generation of Syntax Tree)
-A Java application for a process of visiting each node in a tree data structure, exactly once.
+# Tree Traversals 
+A Java application for a process of visiting each node in a tree data structure, exactly once. It requires an Infix input and outputs Prefix and Postfix Notation (with generation of Syntax Tree).
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
